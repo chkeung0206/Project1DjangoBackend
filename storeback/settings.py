@@ -60,6 +60,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://project1store.onrender.com/",
 ]
 
 CORS_ALLOW_HEADERS = [
